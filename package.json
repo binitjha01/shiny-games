@@ -1,0 +1,22 @@
+{
+  "name": "typing-racer",
+  "version": "1.0.0",
+  "description": "A kid-friendly typing speed racing game built with Phaser.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "keywords": ["typing", "game", "racing", "phaser", "kids"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "phaser": "^3.90.0"
+  },
+  "devDependencies": {
+    "@types/node": "^25.0.8",
+    "typescript": "^5.9.3",
+    "vite": "^6.4.1"
+  }
+}
